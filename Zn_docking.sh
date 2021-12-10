@@ -96,12 +96,3 @@ done
 echo \#########
 echo  FINISHED!
 echo \#########
-###############################################################
-# Docking
-
-
-
-#yes | sudo apt install openbabel
-# (sleep 10; echo y; sleep 2; echo n;...) | /opt/MNG/MNGVIEWHP/fe/uninstall
-# printf '%s\n' y n n y y n...
-
