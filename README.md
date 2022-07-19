@@ -1,5 +1,4 @@
 # Zn-metalloprotein-vina-docking
-
 A bash script to automate vina docking of small molecules to zinc metalloproteins
 
 ![thumbnail](https://user-images.githubusercontent.com/19835485/175773535-2696374d-e478-405b-90f8-8b43e726c7ab.png)
